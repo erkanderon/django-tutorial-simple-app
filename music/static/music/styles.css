@@ -1,0 +1,12 @@
+.star{
+	width: 20px; 
+	height: 20px;
+}
+
+.navbar{
+	border-radius: 0px;
+}
+
+.navbar-brand{
+	font-family: 'Satisfy', cursive;
+}
