@@ -19,3 +19,7 @@
 .glyphicon-star.active {
     color: #FDB230;
 }
+.thumbnail a img{
+	height: 190px;
+    width: 100%;
+}
