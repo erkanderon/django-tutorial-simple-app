@@ -20,6 +20,8 @@
     color: #FDB230;
 }
 .thumbnail a img{
-	height: 190px;
-    width: 100%;
+	min-height: 300px;
+	max-height: 300px;
+    max-width: 100%;
+    min-width: 100%;
 }
